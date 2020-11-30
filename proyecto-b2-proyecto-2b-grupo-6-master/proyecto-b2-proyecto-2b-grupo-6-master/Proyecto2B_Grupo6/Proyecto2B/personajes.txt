@@ -1,0 +1,5 @@
+Naruto,rasengan,rasenshuriken,950,400,Aire
+Sasuke,bola de fuego,chidori,1300,500,Fuego
+Kakashi,chidori,shinden,1300,500,Fuego
+Sakura,golpe de taijutsu,genjutsu,1400,700,Tierra
+
