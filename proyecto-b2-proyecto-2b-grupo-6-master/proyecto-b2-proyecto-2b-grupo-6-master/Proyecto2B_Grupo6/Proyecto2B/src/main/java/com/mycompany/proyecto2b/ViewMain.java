@@ -12,7 +12,7 @@ import javafx.scene.image.ImageView;
 import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.Pane;
 import javafx.scene.media.AudioClip;
-//PROYECTO
+//PROYECTO 2020B
 
 public class ViewMain {
 
