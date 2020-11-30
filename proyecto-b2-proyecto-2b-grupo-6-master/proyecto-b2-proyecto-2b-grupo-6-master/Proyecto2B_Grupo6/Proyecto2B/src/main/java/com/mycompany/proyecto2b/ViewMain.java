@@ -49,7 +49,7 @@ public class ViewMain {
         containerGen.setMinSize(350, 250);
         controlChoiceBox();
         
-        
+        //AGREGAR INFORMACION
         //Agregar la informacion de Jugadores al choicebox
         regPlayers = new PlayersRegistration();
         regCharacters = new StoreCharacters();
