@@ -14,6 +14,8 @@ import javafx.scene.layout.Pane;
 import javafx.scene.paint.Color;
 import javax.swing.JOptionPane;
 
+//CLASE BATALLA
+
 public class BattleView extends StoreCharacters {
 
     Image imagen7;
