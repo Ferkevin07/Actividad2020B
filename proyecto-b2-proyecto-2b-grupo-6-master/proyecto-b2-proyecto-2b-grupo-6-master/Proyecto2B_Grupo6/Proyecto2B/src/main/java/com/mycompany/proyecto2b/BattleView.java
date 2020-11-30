@@ -102,7 +102,7 @@ public class BattleView extends StoreCharacters {
         });
         return ventana3;
     }
-
+//Funcion para controlar las imagenes
     public void controlImages() {
 
         imagen7 = new Image("file:fondogif2.gif");
