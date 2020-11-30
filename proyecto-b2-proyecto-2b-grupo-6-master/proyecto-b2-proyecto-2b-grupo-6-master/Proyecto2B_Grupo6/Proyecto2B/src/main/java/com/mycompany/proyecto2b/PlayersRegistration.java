@@ -54,7 +54,7 @@ public class PlayersRegistration {
             System.out.println(e.getMessage());
         }
     }
-
+//Funcion de la creacion de jugador
     public void createPlayer(String name, String lastName, int identificationCard, String user) {
 
         if (!existingUser(identificationCard)) {
